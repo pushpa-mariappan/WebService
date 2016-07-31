@@ -1,0 +1,5 @@
+This webservice is created using eclipse.  You can create the webservice  using command prompt also.
+Create dynamic web project using jee
+Create the Service Endpoint Interface, Service Implementation Bean, and Enpoint publisher class
+Run the publisher class.
+From the Endpoint url access wsdl using queryparam ?wsdl 
